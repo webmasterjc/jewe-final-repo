@@ -67,6 +67,7 @@ color: rgb(99, 93, 93);
 
 
 .sec-two{
+      display: flex;
       width: 50%;
 padding-left: 10%;
 width: 50%;
@@ -77,7 +78,7 @@ margin-bottom: 200px;
 
 
 .about-us{
-      background-image: url(images/7.png);
+     
       padding-top: 10%;
       width: 50%;
 }
@@ -121,6 +122,7 @@ margin-bottom: 200px;
 }
 
 .sec-four{
+      display: flex;
       border-radius: 40;
       width: 30%;
       margin-bottom: 200px;
@@ -146,12 +148,31 @@ margin-bottom: 200px;
      
 }
 .sec-five{
+      display: flex;
+
 
       text-align: center;
       margin-bottom: 200px;
 
 }
 
+.social{
+      display: flex;
+     
+}
+.youtube{
+      padding-right: 20%;
+      padding-left: 50%;
+      font-size: 100px;
+}
+.facebook{
+      padding-right: 20%;
+      font-size: 100px;
+}
+
+.linkdin{
+      font-size: 100px;
+}
 .sec-six{
     
       margin-bottom: 200px;
