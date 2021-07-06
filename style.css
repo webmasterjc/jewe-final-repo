@@ -1,4 +1,10 @@
+
+.body{
+      font-family: 'Archivo Black', sans-serif;
+}
+
 .sec-one{
+      
         display: flex;
         margin-bottom: 200px;
         margin-top: 100px;
@@ -6,6 +12,7 @@
 }
 
 .div-sec-one{
+      font-family: 'Archivo Black', sans-serif;
 
          width: 50%;
          padding-left: 7%;
@@ -14,7 +21,10 @@
 
 
 .company-heading{
-font-size: 100px;
+      
+font-size: 130px;
+padding-right: 10;
+margin-left: 10px;
 
 }
 
