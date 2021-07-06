@@ -25,11 +25,22 @@
         padding-top: 5%;
 }
 
+
+.company-heading{
+      color: rgb(66, 56, 56);
+}
+.meat-color{
+      color: darkgoldenrod;
+}
+
+
+
 .div-sec-one{
       font-family: 'Archivo Black', sans-serif;
 
          width: 50%;
          padding-left: 7%;
+
          
 }
 
@@ -52,17 +63,22 @@ margin-left: 10px;
 
 
 .sec-two{
+padding-left: 10%;
+      width: 50%;
       margin-bottom: 200px;
 
 
 }
 
 
-
+.about-us{
+      width: 50%;
+}
 
 .sec-three-div-body{
-      
+      width: 20%;
       display: flex;
+
 
 }
 
@@ -71,15 +87,15 @@ margin-left: 10px;
 
 
 .div-sec-two{
-      
-      width: 50%;
+     
 }
       
 
 
 
 .sec-three{
-      
+      padding-left: 30%;
+      text-align: center;
       margin-bottom: 200px;
       
 }
@@ -87,8 +103,27 @@ margin-left: 10px;
 
 .sec-four{
       margin-bottom: 200px;
+
+}
+.sec-four-div-0ne{
+      padding-top: 10%;
+      padding-left: 10%;
+      
 }
 
+
+.sec-four-div-two{
+      padding-top: 10%;
+      
+      
+}
+
+
+.sec-four-div-three{
+      padding-top: 10%;
+      
+     
+}
 .sec-five{
       margin-bottom: 200px;
 
@@ -103,4 +138,33 @@ margin-left: 10px;
 
 .half-width{
       width: 50%;
+}
+
+.last-footer{
+     
+      text-align: center;
+      background-color: black;
+      
+     
+}
+
+.footer-h{
+
+      font-size: 50px;
+      text-align: center;
+      color: rgb(117, 116, 110);
+}
+
+.footer-pera{
+      font-size: 30px;
+      text-align: center;
+      color: rgb(201, 200, 195);
+}
+
+.footer-span{
+      color: rgb(218, 145, 36);
+}
+
+.our-recipi{
+      text-align: center;
 }
