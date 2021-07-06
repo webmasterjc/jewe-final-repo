@@ -129,6 +129,7 @@ margin-bottom: 200px;
 
 }
 .sec-four-div-0ne{
+      
       padding-top: 10%;
       padding-left: 10%;
       
@@ -136,6 +137,7 @@ margin-bottom: 200px;
 
 
 .sec-four-div-two{
+   
       padding-top: 10%;
       
       
@@ -143,6 +145,7 @@ margin-bottom: 200px;
 
 
 .sec-four-div-three{
+      
       padding-top: 10%;
       
      
@@ -157,12 +160,14 @@ margin-bottom: 200px;
 }
 
 .social{
+      text-align: center;
       display: flex;
      
 }
 .youtube{
-      padding-right: 20%;
-      padding-left: 50%;
+     
+      padding-right: 30%;
+      padding-left: 30%;
       font-size: 100px;
 }
 .facebook{
@@ -202,13 +207,17 @@ padding-top: 20px;
 }
 
 .footer-pera{
-      padding-bottom: 20px;
+      padding-bottom: 30px;
       font-size: 30px;
       text-align: center;
       color: rgb(201, 200, 195);
 }
 
 .footer-span{
+      padding-bottom: 50px;
       color: rgb(218, 145, 36);
 }
 
+.img-one{
+      padding-right: 20%;
+}
